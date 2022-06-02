@@ -1,0 +1,8 @@
+PEPPERBOX:
+1) Install Eclipse IDE
+2) Download Github Project for Pepperbox (pepper-box-master)
+3) Open Pepperbox project in IDE (Import / open projects from file system).  Select the unzipped file path.
+4) Right click on pom.xml >> Run As >> Maven Install (Make changes in pom.xml to reflect current jmeter version and kafka version)
+5) The output of above command will provide pepper-box-1.0.jar file
+====================================================================================================================================
+
